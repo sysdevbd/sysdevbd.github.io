@@ -1,4 +1,4 @@
-# sysdevbd.github.io
+# sysdevbd.com
 
 - [Prepare your workstation](/workstation/)
 - [Learn Git](/git/)
