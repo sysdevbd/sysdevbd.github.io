@@ -4,6 +4,6 @@
 - [Learn Git](/git/)
 - [Learn Go](/go/)
 - Learn Containers
-   - [Linux Namespaces](/containers/namespace) 
-   - [Docker](/containers/docker) 
+   - [Linux Namespaces](/containers/namespace/)
+   - [Docker](/containers/docker/)
 - [Learn eBPF](https://github.com/tamalsaha/bpf-notes)
