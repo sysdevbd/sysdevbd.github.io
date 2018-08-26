@@ -85,7 +85,7 @@ $ sudo apt-get install --only-upgrade sublime-text-installer
 ## Install Visual Studio Code
 
 Visual Studio Code is simple IDE with powerful language specific extensions. 
-Download the 64-bit *.deb file from https://code.visualstudio.com/download and install it.
+Download the 64-bit *.deb file from [its website](https://code.visualstudio.com/download) and install it.
 
 ## Install git
 
