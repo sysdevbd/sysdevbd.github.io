@@ -1,6 +1,6 @@
 # Docker
 
-![alt_text](/images/bpf-ci.png "using ci with bpf")
+![alt_text](/images/vm-vs-container.png "vm vs container")
 
 ## Concept
 - [Docker Tutorial - Part 1 - What is Docker, and Key Concepts](https://www.youtube.com/watch?v=T25Z4CUwYjE)
