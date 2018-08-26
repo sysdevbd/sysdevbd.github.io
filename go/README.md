@@ -54,7 +54,6 @@ Read these books / articles / web pages in order:
   - [Arrays, slices (and strings): The mechanics of 'append'](https://blog.golang.org/slices)
   - [SliceTricks](https://github.com/golang/go/wiki/SliceTricks)
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
-
 - [Effective GO](https://golang.org/doc/effective_go.html)
 
 If you just want a quick refresh of the syntax, the following link is very handy: [A Tour of Go](https://tour.golang.org/)
