@@ -1,3 +1,4 @@
+# Batch 1: Spe 1, 2018 - Oct 30, 2018
 
 - W1: Git basics, Go
 - W2: Build a REST api using Go, run in Docker
