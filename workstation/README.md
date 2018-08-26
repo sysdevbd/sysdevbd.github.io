@@ -83,6 +83,7 @@ $ sudo apt-get install --only-upgrade sublime-text-installer
 ```
 
 ## Install Visual Studio Code
+
 Visual Studio Code is simple IDE with powerful language specific extensions. 
 Download the 64-bit *.deb file from https://code.visualstudio.com/download and install it.
 
@@ -192,3 +193,8 @@ $ cat ~/.ssh/id_rsa.pub
 
 * Press Add key.
 * The system adds the key to your account.
+
+## Install Postman
+
+Postman is a free GUI tools for developing and testing HTTP apis. Download and install it from their website https://www.getpostman.com/apps
+
