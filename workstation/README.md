@@ -144,11 +144,11 @@ The key's randomart image is:
 
 3. **Start the ssh-agent and load your keys**: 
 
-* Open a terminal window and enter the ps -e | grep [s]sh-agent command to see if the agent is running:
+* Open a terminal window and enter the following command to see if the agent is running:
 
 ```console
 $ ps -e  | grep [s]sh-agent
- 	9060 ??         0:00.28 /usr/bin/ssh-agent -l
+9060 ??         0:00.28 /usr/bin/ssh-agent -l
 ```
 
 * If the agent isn't running, start it manually with the following command:
