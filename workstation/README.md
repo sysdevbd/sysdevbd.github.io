@@ -188,7 +188,7 @@ $ cat ~/.ssh/id_rsa.pub
 * Back in your browser, enter a Label for your new key, for example, Default public key.
 * Paste the copied public key into the SSH Key field:
 
-![alt_text](images/github-keys.png)
+![alt_text](/images/github-keys.png)
 
 * Press Add key.
 * The system adds the key to your account.
