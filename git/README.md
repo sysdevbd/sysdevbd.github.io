@@ -1,5 +1,18 @@
 # Git
 
-- https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository (ch 2, 3)
-- https://try.github.io/levels/1/challenges/1
+Watch/read these links in order and practice in your personal git repository at the same time. You should memorize the basic git commands and their usage.
+
+## Video Tutorials
+
+- [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4)
+- [Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits](https://www.youtube.com/watch?v=FdZecVxzJbk)
+
+## Git Book
+[Pro Git](https://git-scm.com/book/en/v2) is the best book on Git. It is written by one of the cofounders of GitHub. Read ch 2 and 3 to get started. I recommend reading the whole book if you are interested.
+
+## Git branching game
 - https://learngitbranching.js.org/
+
+## Additional Resources
+- https://try.github.io/levels/1/challenges/1
+
