@@ -2,6 +2,14 @@
 
 ## Namespaces in C
 - [Namespaces in operation, part 1: namespaces overview](https://lwn.net/Articles/531114/)
+- [Part 2: the namespaces API](https://lwn.net/Articles/531381/)
+- [Part 3: PID namespaces](https://lwn.net/Articles/531419/)
+- [Part 4: more on PID namespaces](https://lwn.net/Articles/532748/)
+- [Part 5: user namespaces](https://lwn.net/Articles/532593/)
+- [Part 6: more on user namespaces](https://lwn.net/Articles/540087/)
+- [Part 7: network namespaces](https://lwn.net/Articles/580893/)
+- [Mount namespaces and shared subtrees](https://lwn.net/Articles/689856/)
+- [Mount namespaces, mount propagation, and unbindable mounts](https://lwn.net/Articles/690679/)
 - [Cgroups](https://github.com/torvalds/linux/blob/master/Documentation/cgroup-v1/cgroups.txt)
 
 ## Namespaces in Go
