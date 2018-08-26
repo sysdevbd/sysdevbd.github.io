@@ -1,5 +1,10 @@
 # Linux Namespaces
 
+## Namespaces in C
+- https://lwn.net/Articles/531114/
+- http://crosbymichael.com/creating-containers-part-1.html
+- Cgroups: https://lwn.net/Articles/524935/
+
 ## Namespaces in Go
 
 * [Part 1: Linux Namespaces](https://medium.com/@teddyking/linux-namespaces-850489d3ccf)
