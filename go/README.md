@@ -141,8 +141,9 @@ $ golint <file>.go
 
 ### GO net/http
 
-- https://golang.org/doc/articles/wiki/
-- https://tutorialedge.net/golang/creating-simple-web-server-with-golang/
+- [Creating A Simple Web Server With Golang](https://tutorialedge.net/golang/creating-simple-web-server-with-golang/)
+- [Encoding and Decoding JSON, with Go’s net/http package](https://kev.inburke.com/kevin/golang-json-http/)
+- https://github.com/gorilla/mux
 - https://golang.org/pkg/net/http/
 - [https://cryptic.io/go-http/](https://cryptic.io/go-http/)
 - [https://github.com/google/go-querystring](https://github.com/google/go-querystring)
