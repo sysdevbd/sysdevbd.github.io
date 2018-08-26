@@ -4,5 +4,5 @@
 - [Learn Git](/git/)
 - [Learn Go](/go/)
 - Learn Containers
-   - [Linux Namespaces](/containers/namespace/) 
-   - [Docker](/containers/docker/) 
+   - [Linux Namespaces](/containers/namespace) 
+   - [Docker](/containers/docker) 
