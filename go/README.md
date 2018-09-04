@@ -239,3 +239,7 @@ It will show how pprof can be used to analyze both CPU and heap profile as well 
 
 - [https://github.com/progrium/go-extpoints](https://github.com/progrium/go-extpoints)
 - [https://github.com/kubernetes/heapster/blob/master/extpoints/extpoints.go](https://github.com/kubernetes/heapster/blob/master/extpoints/extpoints.go)
+
+
+## Best Practices
+- [Ashley McNamara + Brian Ketelsen. Go best practices.](https://www.youtube.com/watch?v=MzTcsI6tn-0)
