@@ -134,10 +134,10 @@ $ golint <file>.go
 
 ### HTTP Basic
 - [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
-- https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155
-- https://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317
-- https://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340
-- https://code.tutsplus.com/tutorials/http-headers-for-dummies--net-8039
+- (HTTP: The Protocol Every Web Developer Must Know - Part 2)[https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155]
+- [HTTP Status Codes in 60 Seconds](https://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317)
+- [A Beginner’s Guide to HTTP and REST](https://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
+- [HTTP Headers for Dummies](https://code.tutsplus.com/tutorials/http-headers-for-dummies--net-8039)
 
 ### GO net/http
 
