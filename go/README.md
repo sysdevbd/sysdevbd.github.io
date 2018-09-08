@@ -28,6 +28,7 @@ $ mkdir $HOME/go
 $ nano ~/.bashrc
 export GOPATH=$HOME/go
 export PATH=$GOPATH/bin:/usr/local/go/bin:$PATH
+$ source ~/.bashrc
 $ go version
 ```
 
