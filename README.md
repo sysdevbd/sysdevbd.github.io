@@ -11,3 +11,6 @@
 
 ## Schedule
 - [Batch 1](/schedule/batch-1/)
+
+## Book
+- [The Linux Programming Interface: A Linux and UNIX System Programming Handbook ](https://www.amazon.com/dp/1593272200/)
