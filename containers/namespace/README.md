@@ -21,3 +21,6 @@
 * [Part 5: Namespaces in Go - Mount](https://medium.com/@teddyking/namespaces-in-go-mount-e4c04fe9fb29)
 * [Part 6: Namespaces in Go - Network](https://medium.com/@teddyking/namespaces-in-go-network-fdcf63e76100)
 * [Part 7: Namespaces in Go - UTS](https://medium.com/@teddyking/namespaces-in-go-uts-d47aebcdf00e)
+
+## Video Tutorial
+* [GOTO 2018 • Containers From Scratch • Liz Rice](https://www.youtube.com/watch?v=8fi7uSYlOdc)
