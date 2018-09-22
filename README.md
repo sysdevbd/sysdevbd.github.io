@@ -13,4 +13,4 @@
 - [Batch 1](/schedule/batch-1/)
 
 ## Book
-- [The Linux Programming Interface: A Linux and UNIX System Programming Handbook ](https://www.amazon.com/dp/1593272200/)
+- [The Linux Programming Interface: A Linux and UNIX System Programming Handbook ](https://github.com/shihyu/Linux_Programming/blob/master/books/The%20Linux%20Programming%20Interface%20-%20A%20Linux%20and%20UNIX%20System%20Programming%20Handbook.pdf)
