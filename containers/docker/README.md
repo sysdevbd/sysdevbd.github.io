@@ -15,3 +15,28 @@
 
 ## Docker Hub
 https://hub.docker.com/
+
+## Docker Union FS:
+- https://docs.docker.com/storage/storagedriver/aufs-driver/#how-the-aufs-storage-driver-works
+
+## Docker OCI Image Spec:
+- https://github.com/opencontainers/image-spec/blob/master/spec.md
+
+## Docker BuildKit:
+https://github.com/moby/buildkit
+https://github.com/genuinetools/img
+https://github.com/GoogleContainerTools/jib
+
+## Docker PID 1:
+- https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/
+
+## CRI Variants
+- https://kubernetes.io/blog/2016/12/container-runtime-interface-cri-in-kubernetes/
+- https://containerd.io/ (from Docker)
+- http://cri-o.io/ (from RedHat)
+
+## RUNC variants:
+- https://github.com/opencontainers/runc
+- https://github.com/google/gvisor
+- https://katacontainers.io/
+- https://nabla-containers.github.io/
