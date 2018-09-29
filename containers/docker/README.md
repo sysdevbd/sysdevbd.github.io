@@ -35,6 +35,14 @@ https://github.com/GoogleContainerTools/jib
 - https://containerd.io/ (from Docker)
 - http://cri-o.io/ (from RedHat)
 
+![containerd](/images/docker/containerd.png "containerd")
+
+![docker-containerd-2](/images/docker/docker-containerd-2.jpeg "containerd as docker")
+
+![cri-containerd](/images/docker/cri-containerd.png "containerd as CRI")
+
+
+
 ## RUNC variants:
 - https://github.com/opencontainers/runc
 - https://github.com/google/gvisor
