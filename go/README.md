@@ -50,6 +50,7 @@ Read these books / articles / web pages in order:
 - [https://github.com/golang/go/wiki/Switch](https://github.com/golang/go/wiki/Switch)
 - Slices
   - [Iterating Over Slices In Go](https://www.ardanlabs.com/blog/2013/09/iterating-over-slices-in-go.html)
+     - [Using goroutines on loop iterator variables](https://github.com/golang/go/wiki/CommonMistakes)
   - [SliceTricks](https://github.com/golang/go/wiki/SliceTricks)
   - [Go Slices: usage and internals](http://blog.golang.org/go-slices-usage-and-internals)
   - [Arrays, slices (and strings): The mechanics of 'append'](https://blog.golang.org/slices)
