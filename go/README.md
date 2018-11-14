@@ -48,12 +48,12 @@ Read these books / articles / web pages in order:
 - [How to write Go code](https://golang.org/doc/code.html)
 - [An Introduction to Programming in GO](https://www.golang-book.com/books/intro)
 - [https://github.com/golang/go/wiki/Switch](https://github.com/golang/go/wiki/Switch)
-- [10 things you did not know](https://talks.golang.org/2012/10things.slide#1)
 - Slices
   - [Iterating Over Slices In Go](https://www.ardanlabs.com/blog/2013/09/iterating-over-slices-in-go.html)
+  - [SliceTricks](https://github.com/golang/go/wiki/SliceTricks)
   - [Go Slices: usage and internals](http://blog.golang.org/go-slices-usage-and-internals)
   - [Arrays, slices (and strings): The mechanics of 'append'](https://blog.golang.org/slices)
-  - [SliceTricks](https://github.com/golang/go/wiki/SliceTricks)
+- [10 things you did not know](https://talks.golang.org/2012/10things.slide#1)
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - [Effective GO](https://golang.org/doc/effective_go.html)
 
@@ -104,11 +104,12 @@ Dep   - https://github.com/golang/dep
 - [http://www.alexedwards.net/blog/understanding-mutexes](http://www.alexedwards.net/blog/understanding-mutexes)
 
 ### Concurrency
-
+- [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms)
+- [http://dave.cheney.net/2013/04/30/curious-channels](http://dave.cheney.net/2013/04/30/curious-channels)
+- [Why are there nil channels in Go?](https://medium.com/justforfunc/why-are-there-nil-channels-in-go-9877cc0b2308)
 - [http://www.golangbootcamp.com/book/concurrency](http://www.golangbootcamp.com/book/concurrency)
 - [https://blog.golang.org/pipelines](https://blog.golang.org/pipelines)
 - [http://openmymind.net/Introduction-To-Go-Channels/](http://openmymind.net/Introduction-To-Go-Channels/)
-- [http://dave.cheney.net/2013/04/30/curious-channels](http://dave.cheney.net/2013/04/30/curious-channels)
 
 ### Go Style guide
 
