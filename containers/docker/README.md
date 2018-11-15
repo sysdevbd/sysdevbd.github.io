@@ -2,6 +2,10 @@
 
 ![alt_text](/images/vm-vs-container.png "vm vs container")
 
+## Install Docker
+- [Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+- [Manage Docker as a non-root user](https://docs.docker.com/install/linux/linux-postinstall/#manage-docker-as-a-non-root-user)
+
 ## Concept
 - [Docker Tutorial - Part 1 - What is Docker, and Key Concepts](https://www.youtube.com/watch?v=T25Z4CUwYjE)
 - [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc)
