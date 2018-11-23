@@ -72,6 +72,10 @@ If you just want a quick refresh of the syntax, the following link is very handy
 
 ### Dependency management
 
+```
+$ export GO111MODULE=on
+```
+
 - [https://roberto.selbach.ca/intro-to-go-modules/](https://roberto.selbach.ca/intro-to-go-modules/)
 - https://news.ycombinator.com/item?id=17793344
 
