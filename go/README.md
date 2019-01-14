@@ -15,10 +15,10 @@ To install Go, run the following command:
 $ cd ~/Downloads
 $ sudo apt-get update
 $ sudo apt-get install -y build-essential git curl wget
-$ wget https://dl.google.com/go/go1.11.2.linux-amd64.tar.gz
-$ sudo tar -C /usr/local -xzf go1.11.2.linux-amd64.tar.gz
+$ wget https://dl.google.com/go/go1.11.4.linux-amd64.tar.gz
+$ sudo tar -C /usr/local -xzf go1.11.4.linux-amd64.tar.gz
 $ sudo chown -R $(id -u):$(id -g) /usr/local/go
-$ rm go1.11.2.linux-amd64.tar.gz
+$ rm go1.11.4.linux-amd64.tar.gz
 ```
 
 Add go to your $PATH variable
