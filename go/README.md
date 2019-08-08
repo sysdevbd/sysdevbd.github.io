@@ -6,7 +6,11 @@ If you are upgrading from an older version of Go you must first remove the exist
 To remove an existing Go installation from your system delete the go directory.
 
 ```console
+# Linux & Mac
 $ sudo rm -rf /usr/local/go
+
+# Windows
+Delete c:\Go
 ```
 
 To install Go, run the following command:
@@ -15,10 +19,10 @@ To install Go, run the following command:
 $ cd ~/Downloads
 $ sudo apt-get update
 $ sudo apt-get install -y build-essential git curl wget
-$ wget https://dl.google.com/go/go1.11.5.linux-amd64.tar.gz
-$ sudo tar -C /usr/local -xzf go1.11.5.linux-amd64.tar.gz
+$ wget https://dl.google.com/go/go1.12.7.linux-amd64.tar.gz
+$ sudo tar -C /usr/local -xzf go1.12.7.linux-amd64.tar.gz
 $ sudo chown -R $(id -u):$(id -g) /usr/local/go
-$ rm go1.11.5.linux-amd64.tar.gz
+$ rm go1.12.7.linux-amd64.tar.gz
 ```
 
 Add go to your $PATH variable
