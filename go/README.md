@@ -80,11 +80,9 @@ If you just want a quick refresh of the syntax, the following link is very handy
 $ export GO111MODULE=on
 ```
 
+- [Go 1.11 Modules](https://github.com/golang/go/wiki/Modules)
 - [https://roberto.selbach.ca/intro-to-go-modules/](https://roberto.selbach.ca/intro-to-go-modules/)
-- https://news.ycombinator.com/item?id=17793344
 
-Glide - https://www.glide.sh/
-Dep   - https://github.com/golang/dep
 
 
 ### Error handling & Reporting
