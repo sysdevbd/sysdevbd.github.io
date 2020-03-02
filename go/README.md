@@ -16,13 +16,14 @@ Delete c:\Go
 To install Go, run the following command:
 
 ```console
+$ go_version=1.14
 $ cd ~/Downloads
 $ sudo apt-get update
 $ sudo apt-get install -y build-essential git curl wget
-$ wget https://dl.google.com/go/go1.12.12.linux-amd64.tar.gz
-$ sudo tar -C /usr/local -xzf go1.12.12.linux-amd64.tar.gz
+$ wget https://dl.google.com/go/go${go_version}.linux-amd64.tar.gz
+$ sudo tar -C /usr/local -xzf go${go_version}.linux-amd64.tar.gz
 $ sudo chown -R $(id -u):$(id -g) /usr/local/go
-$ rm go1.12.12.linux-amd64.tar.gz
+$ rm go${go_version}.linux-amd64.tar.gz
 ```
 
 Add go to your $PATH variable
