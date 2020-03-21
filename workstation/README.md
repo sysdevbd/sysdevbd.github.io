@@ -33,6 +33,7 @@ $ rm <deb_file_name>.deb
 
 ### Install Chrome Extensions
 - [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf?hl=en)
+- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
 
 ## Install Zoom
 
