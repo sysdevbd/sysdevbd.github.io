@@ -45,10 +45,12 @@ $ go version
 
 ## Learn Go
 
+- [An Introduction to Programming in GO](https://www.golang-book.com/books/intro)
+
+## Learn Go Nuances
+
 Read these books / articles / web pages in order:
 
-- [How to write Go code](https://golang.org/doc/code.html)
-- [An Introduction to Programming in GO](https://www.golang-book.com/books/intro)
 - [https://github.com/golang/go/wiki/Switch](https://github.com/golang/go/wiki/Switch)
 - Slices
   - [Iterating Over Slices In Go](https://www.ardanlabs.com/blog/2013/09/iterating-over-slices-in-go.html)
