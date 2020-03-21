@@ -40,11 +40,8 @@ $ go version
 ### Troubleshoot Go
 - `cannot allocate memory`: [http://stackoverflow.com/a/35027241](http://stackoverflow.com/a/35027241)
 
-## IDE
-
-- Sublime Text
-- Visual Studio Code
-- Intellij GoLand: [https://www.jetbrains.com/go/](https://www.jetbrains.com/go/)
+## Install Intellij GoLand IDE
+- https://www.jetbrains.com/go/nextversion/
 
 ## Learn Go
 
