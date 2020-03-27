@@ -168,8 +168,8 @@ $ golint <file>.go
 
 ### YAML
 
-- [YAML Techniques](https://github.com/helm/helm/blob/master/docs/chart_template_guide/yaml_techniques.md)
-- [ghodss/yaml](https://github.com/ghodss/yaml)
+- [YAML Techniques](https://github.com/helm/helm/blob/v2.16.5/docs/chart_template_guide/yaml_techniques.md)
+- [sigs.k8s.io/yaml](https://github.com/kubernetes-sigs/yaml)
 
 ### GO Template Engine
 
