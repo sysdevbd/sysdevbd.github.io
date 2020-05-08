@@ -111,12 +111,16 @@ $ export GO111MODULE=on
 - [http://www.alexedwards.net/blog/understanding-mutexes](http://www.alexedwards.net/blog/understanding-mutexes)
 
 ### Concurrency
+- https://golangbot.com/concurrency/
+- https://golangbot.com/goroutines/
+- https://golangbot.com/channels/
+- [Concurrency Made Easy (Practical Tips For Effective Concurrency In Go)](https://www.youtube.com/watch?v=DqHb5KBe7qI)
+- [Kavya Joshi - Understanding Channels](https://www.youtube.com/watch?v=KBZlN0izeiY)
 - [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms)
-- [http://dave.cheney.net/2013/04/30/curious-channels](http://dave.cheney.net/2013/04/30/curious-channels)
+- [Curious Channels](http://dave.cheney.net/2013/04/30/curious-channels)
 - [Why are there nil channels in Go?](https://medium.com/justforfunc/why-are-there-nil-channels-in-go-9877cc0b2308)
-- [http://www.golangbootcamp.com/book/concurrency](http://www.golangbootcamp.com/book/concurrency)
+- [The Behavior Of Channels](https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html)
 - [https://blog.golang.org/pipelines](https://blog.golang.org/pipelines)
-- [http://openmymind.net/Introduction-To-Go-Channels/](http://openmymind.net/Introduction-To-Go-Channels/)
 
 ### Go Style guide
 
