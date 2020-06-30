@@ -168,6 +168,7 @@ $ golint <file>.go
 - http://blog.golang.org/json-and-go
 - https://gobyexample.com/json
 - http://mholt.github.io/json-to-go/
+- [How to Parse a JSON Request Body in Go](https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body)
 - [JSON and struct composition in Go](http://attilaolah.eu/2014/09/10/json-and-struct-composition-in-go/)
 - [Custom Marshaller/Unmarshaller](https://gist.github.com/mdwhatcott/8dd2eef0042f7f1c0cd8)
 
