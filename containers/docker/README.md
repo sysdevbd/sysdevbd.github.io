@@ -10,6 +10,7 @@
 - [Docker Tutorial - Part 1 - What is Docker, and Key Concepts](https://www.youtube.com/watch?v=T25Z4CUwYjE)
 - [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc)
 - [Docker basics](https://docs.docker.com/get-started/#setup)
+- [Building Docker Containers for Go Applications](https://www.callicoder.com/docker-golang-image-container-example/)
 - [Intro to Docker & Linux Namespace](https://www.youtube.com/watch?v=oLZyFKMu0dk)
 - [A quick introduction to Docker tags](https://medium.freecodecamp.org/an-introduction-to-docker-tags-9b5395636c2a)
 - [How I filter and grep Docker containers, images, and volumes, and how you can too](https://medium.freecodecamp.org/how-i-filter-and-grep-docker-containers-images-and-volumes-and-how-you-can-too-a60e52bf7784)
