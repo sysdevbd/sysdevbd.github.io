@@ -16,7 +16,7 @@ Delete c:\Go
 To install Go, run the following command:
 
 ```console
-$ go_version=1.15.2
+$ go_version=1.15.5
 $ cd ~/Downloads
 $ sudo apt-get update
 $ sudo apt-get install -y build-essential git curl wget
