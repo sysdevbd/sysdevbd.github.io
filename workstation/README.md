@@ -91,3 +91,16 @@ Download the 64-bit *.deb file from [its website](https://code.visualstudio.com/
 
 Postman is a free GUI tools for developing and testing HTTP apis. Download and install it from their website https://www.getpostman.com/apps
 
+## Troubleshooting
+
+### Pulse Audio Profile
+
+`sudo vi /usr/share/pulseaudio/alsa-mixer/profile-sets/default.conf`
+
+```
+; An example for defining multiple-sink profiles
+[Profile output:analog-stereo+output:hdmi-stereo+input:analog-stereo]
+description = Analog Stereo
+output-mappings = analog-stereo hdmi-stereo
+input-mappings = analog-stereo
+```
