@@ -41,7 +41,7 @@ $ go version
 - `cannot allocate memory`: [http://stackoverflow.com/a/35027241](http://stackoverflow.com/a/35027241)
 
 ## Install Intellij GoLand IDE
-- https://www.jetbrains.com/go/nextversion/
+- https://www.jetbrains.com/go/
 
 ## Learn Go
 
