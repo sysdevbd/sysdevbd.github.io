@@ -16,9 +16,9 @@
 - [How I filter and grep Docker containers, images, and volumes, and how you can too](https://medium.freecodecamp.org/how-i-filter-and-grep-docker-containers-images-and-volumes-and-how-you-can-too-a60e52bf7784)
 
 ## FAQs
-- [Expose vs publish: Docker port commands explained simply](https://medium.freecodecamp.org/expose-vs-publish-docker-port-commands-explained-simply-434593dbc9a3)
-- [Docker run vs exec: deep-dive into their differences](https://medium.com/the-code-review/docker-run-vs-exec-deep-dive-into-their-differences-19a1041735a3)
-- [Dockerfile COPY vs ADD: key differences and best practices](https://medium.freecodecamp.org/dockerfile-copy-vs-add-key-differences-and-best-practices-9570c4592e9e)
+- [Expose vs publish: Docker port commands explained simply](https://nickjanetakis.com/blog/docker-tip-59-difference-between-exposing-and-publishing-ports)
+- [Docker run vs exec: deep-dive into their differences](https://www.bitcoininsider.org/article/25173/docker-run-vs-exec-deep-dive-their-differences)
+- [Dockerfile COPY vs ADD: key differences and best practices](https://phoenixnap.com/kb/docker-add-vs-copy)
 
 ## Docker Hub
 https://hub.docker.com/
