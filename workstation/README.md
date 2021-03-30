@@ -91,6 +91,34 @@ Download the 64-bit *.deb file from [its website](https://code.visualstudio.com/
 
 Postman is a free GUI tools for developing and testing HTTP apis. Download and install it from their website https://www.getpostman.com/apps
 
+## Configure Alias
+
+### Bash
+
+```
+$ nano ~/.bashrc
+
+alias gg="git gui"
+alias gs="git status"
+alias gm="git checkout master;git pull origin master"
+alias gp="git add .; git commit -a -m added-all; git push origin HEAD"
+alias g2h="git push origin HEAD"
+alias gr="git reset --hard HEAD"
+```
+
+### Fish
+
+```
+$ nano ~/.config/fish/config.fish
+
+alias gg 'git gui'
+alias gs 'git status'
+alias gm 'git checkout master;git pull origin master'
+alias gp 'git add .;git commit -a -m added-all;git push origin HEAD'
+alias g2h 'git push origin HEAD'
+alias gr 'git reset --hard HEAD'
+```
+
 ## Troubleshooting
 
 ### Pulse Audio Profile
