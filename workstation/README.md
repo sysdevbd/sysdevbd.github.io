@@ -100,10 +100,11 @@ $ nano ~/.bashrc
 
 alias gg="git gui"
 alias gs="git status"
-alias gm="git checkout master;git pull origin master"
-alias gp="git add .; git commit -a -m added-all; git push origin HEAD"
+alias gm="git checkout master;git fetch origin;git reset --hard origin/master"
+alias gp="git add .;git commit -a -s -m added-all;git push origin HEAD"
 alias g2h="git push origin HEAD"
 alias gr="git reset --hard HEAD"
+alias gmv="go mod tidy; go mod vendor"
 ```
 
 ### Fish
@@ -113,10 +114,11 @@ $ nano ~/.config/fish/config.fish
 
 alias gg 'git gui'
 alias gs 'git status'
-alias gm 'git checkout master;git pull origin master'
-alias gp 'git add .;git commit -a -m added-all;git push origin HEAD'
+alias gm 'git checkout master;git fetch origin;git reset --hard origin/master'
+alias gp 'git add .;git commit -a -s -m added-all;git push origin HEAD'
 alias g2h 'git push origin HEAD'
 alias gr 'git reset --hard HEAD'
+alias gmv 'go mod tidy; go mod vendor'
 ```
 
 ## Troubleshooting
