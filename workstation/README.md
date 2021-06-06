@@ -105,7 +105,7 @@ alias gp="git add .;git commit -a -s -m added-all;git push origin HEAD"
 alias g2h="git push origin HEAD"
 alias gr="git reset --hard HEAD"
 alias gmv="go mod tidy; go mod vendor"
-alias ga="git commit --amend --no-edit -a"
+alias ga="git add .;git commit --amend --no-edit -a -s"
 ```
 
 ### Fish
@@ -120,7 +120,7 @@ alias gp 'git add .;git commit -a -s -m added-all;git push origin HEAD'
 alias g2h 'git push origin HEAD'
 alias gr 'git reset --hard HEAD'
 alias gmv 'go mod tidy; go mod vendor'
-alias ga 'git commit --amend --no-edit -a'
+alias ga 'git add .;git commit --amend --no-edit -a -s'
 ```
 
 ## Troubleshooting
