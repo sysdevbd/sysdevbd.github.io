@@ -100,6 +100,10 @@ $ export GO111MODULE=on
 
 - [http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 
+### Reflection
+
+- https://golangbot.com/reflection/
+
 ### Mixin
 
 - [https://gist.github.com/haazime/270657beb140a307a559](https://gist.github.com/haazime/270657beb140a307a559)
