@@ -66,14 +66,16 @@ $ sudo apt-get install terminator
 
 This terminal software allows to split the window vertically and horizontally. This is very handy when working with big screens.
 
-## Install Sublime Text 3
+## Install Sublime Text 4
+
+https://www.sublimetext.com/docs/linux_repositories.html#apt
 
 ```console
-$ wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
-$ sudo apt-get install apt-transport-https
-$ echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
-$ sudo apt-get update
-$ sudo apt-get install sublime-text
+wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+sudo apt-get install apt-transport-https
+echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+sudo apt-get update
+sudo apt-get install sublime-text
 ```
 
 To upgrade an existing installation, run
