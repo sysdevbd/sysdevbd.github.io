@@ -166,6 +166,23 @@ $ golint <file>.go
 - [https://github.com/google/go-querystring](https://github.com/google/go-querystring)
 - [https://github.com/tent/http-link-go](https://github.com/tent/http-link-go)
 
+### Tracing HTTP Connections
+
+- [Golang httptrace Example](https://golang.cafe/blog/golang-httptrace-example.html)
+- [How to re-use HTTP Connections in Go](https://golang.cafe/blog/how-to-reuse-http-connections-in-go.html)
+- https://github.com/hashicorp/go-cleanhttp
+
+```
+// By default, Transport caches connections for future re-use.
+// This may leave many open connections when accessing many hosts.
+// This behavior can be managed using Transport's CloseIdleConnections method
+// and the MaxIdleConnsPerHost and DisableKeepAlives fields.
+//
+// Transports should be reused instead of created as needed.
+// Transports are safe for concurrent use by multiple goroutines.
+```
+
+
 ### JSON
 
 - [http://json.org/](http://json.org/)
