@@ -138,3 +138,27 @@ description = Analog Stereo
 output-mappings = analog-stereo hdmi-stereo
 input-mappings = analog-stereo
 ```
+
+### Mac OSX
+
+**Install sed**
+
+```
+$ brew install gnu-sed
+$ brew info gnu-sed
+gnu-sed: stable 4.8 (bottled)
+GNU implementation of the famous stream editor
+https://www.gnu.org/software/sed/
+Conflicts with:
+  ssed (because both install share/info/sed.info)
+/opt/homebrew/Cellar/gnu-sed/4.8 (12 files, 601.9KB) *
+  Poured from bottle on 2021-11-03 at 07:28:55
+From: https://github.com/Homebrew/homebrew-core/blob/HEAD/Formula/gnu-sed.rb
+License: GPL-3.0-or-later
+==> Caveats
+GNU "sed" has been installed as "gsed".
+If you need to use it as "sed", you can add a "gnubin" directory
+to your PATH from your bashrc like:
+
+    PATH="/opt/homebrew/opt/gnu-sed/libexec/gnubin:$PATH"
+```
