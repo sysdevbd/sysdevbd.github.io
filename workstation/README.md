@@ -162,3 +162,12 @@ to your PATH from your bashrc like:
 
     PATH="/opt/homebrew/opt/gnu-sed/libexec/gnubin:$PATH"
 ```
+
+**Install yqq**
+
+```
+~> cd ~/go/src/github.com/mikefarah/yq
+~/g/s/g/m/yq ((3.3.0))> go build -v .
+~/g/s/g/m/yq ((3.3.0))> mv yq ~/go/bin/yqq
+~/g/s/g/m/yq ((3.3.0))> yqq -v
+```
