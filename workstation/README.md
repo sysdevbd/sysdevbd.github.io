@@ -141,6 +141,20 @@ input-mappings = analog-stereo
 
 ### Mac OSX
 
+```
+# find, date, sed
+
+brew install coreutils
+brew install findutils
+brew install gnu-sed
+
+# Now add PATH overrides for each one of them in ~/.zprofile
+
+brew info coreutils
+brew info findutils
+brew info gnu-sed
+```
+
 **Install sed**
 
 ```
