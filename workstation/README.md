@@ -166,8 +166,9 @@ to your PATH from your bashrc like:
 **Install yqq**
 
 ```
-~> cd ~/go/src/github.com/mikefarah/yq
-~/g/s/g/m/yq ((3.3.0))> go build -v .
-~/g/s/g/m/yq ((3.3.0))> mv yq ~/go/bin/yqq
-~/g/s/g/m/yq ((3.3.0))> yqq -v
+> cd ~/go/src/github.com/mikefarah/yq
+> git checkout 3.3.0
+> go build -v .
+> mv yq ~/go/bin/yqq
+> yqq -v
 ```
