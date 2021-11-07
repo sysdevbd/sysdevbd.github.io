@@ -155,6 +155,23 @@ brew info findutils
 brew info gnu-sed
 ```
 
+```
+brew install jq
+pip3 install yq
+```
+
+**Install yqq**
+
+```
+# install yq go binary as yqq
+
+> cd ~/go/src/github.com/mikefarah/yq
+> git checkout 3.3.0
+> go build -v .
+> mv yq ~/go/bin/yqq
+> yqq -v
+```
+
 **Install sed**
 
 ```
@@ -175,14 +192,4 @@ If you need to use it as "sed", you can add a "gnubin" directory
 to your PATH from your bashrc like:
 
     PATH="/opt/homebrew/opt/gnu-sed/libexec/gnubin:$PATH"
-```
-
-**Install yqq**
-
-```
-> cd ~/go/src/github.com/mikefarah/yq
-> git checkout 3.3.0
-> go build -v .
-> mv yq ~/go/bin/yqq
-> yqq -v
 ```
