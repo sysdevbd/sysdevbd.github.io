@@ -139,6 +139,12 @@ output-mappings = analog-stereo hdmi-stereo
 input-mappings = analog-stereo
 ```
 
+### exec: "gcc-5": executable file not found in $PATH
+
+```
+go env -w CC=gcc CXX="g++"
+```
+
 ### Mac OSX
 
 ```
