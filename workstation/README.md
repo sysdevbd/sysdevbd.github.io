@@ -199,3 +199,9 @@ to your PATH from your bashrc like:
 
     PATH="/opt/homebrew/opt/gnu-sed/libexec/gnubin:$PATH"
 ```
+
+**Detect bind port already in use**
+
+https://stackoverflow.com/questions/3855127/find-and-kill-process-locking-port-3000-on-mac
+
+`lsof -ti:port1,port2`
