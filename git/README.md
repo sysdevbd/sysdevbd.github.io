@@ -14,6 +14,15 @@ $ git config --global user.name <your-name>
 $ git config --global user.email <your-email@appscode.com>
 ```
 
+### Git ignore .DS_Store
+
+- https://0xmachos.com/2020-01-22-Eradicating-.DS_Store-From-Git/
+
+```console
+$ nano ~/.gitignore
+$ git config --global core.excludesfile ~/.gitignore
+```
+
 ### Configure `ssh` keys
 
 1. **Ensure you have an SSH client installed**: Open a terminal on your local system and enter the following command to identify which version of SSH you have installed.
