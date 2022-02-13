@@ -19,7 +19,8 @@ $ git config --global user.email <your-email@appscode.com>
 - https://0xmachos.com/2020-01-22-Eradicating-.DS_Store-From-Git/
 
 ```console
-$ nano ~/.gitignore
+$ echo .DS_Store > ~/.gitignore
+
 $ git config --global core.excludesfile ~/.gitignore
 ```
 
