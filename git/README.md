@@ -4,12 +4,12 @@ Watch/read these links in order and practice in your personal git repository at 
 
 ## Install git
 
-```console
+```bash
 $ sudo apt-get install git git-gui
 ```
 ### Configure git
 
-```console
+```bash
 $ git config --global user.name <your-name>
 $ git config --global user.email <your-email@appscode.com>
 ```
@@ -18,7 +18,7 @@ $ git config --global user.email <your-email@appscode.com>
 
 - https://0xmachos.com/2020-01-22-Eradicating-.DS_Store-From-Git/
 
-```console
+```bash
 $ echo .DS_Store > ~/.gitignore
 
 $ git config --global core.excludesfile ~/.gitignore
@@ -28,7 +28,7 @@ $ git config --global core.excludesfile ~/.gitignore
 
 1. **Ensure you have an SSH client installed**: Open a terminal on your local system and enter the following command to identify which version of SSH you have installed.
 
-```console
+```bash
 $ ssh -v
 OpenSSH_5.6p1, OpenSSL 0.9.8r 8 Feb 2011
 usage: ssh [-1246AaCfgKkMNnqsTtVvXxYy] [-b bind_address] [-c cipher_spec]
@@ -43,7 +43,7 @@ usage: ssh [-1246AaCfgKkMNnqsTtVvXxYy] [-b bind_address] [-c cipher_spec]
 
 2. **Set up your default identity**: Now, open a terminal in your local system and run `ssh-keygen`. Press ENTER 3 times to accept default options.
 
-```console
+```bash
 $ ssh-keygen -t rsa -C "<your-email>"
 Generating public/private rsa key pair.
 Enter file in which to save the key (/Users/manthony/.ssh/id_rsa): 
@@ -72,20 +72,20 @@ The key's randomart image is:
 
 * Open a terminal window and enter the following command to see if the agent is running:
 
-```console
+```bash
 $ ps -e  | grep [s]sh-agent
 9060 ??         0:00.28 /usr/bin/ssh-agent -l
 ```
 
 * If the agent isn't running, start it manually with the following command:
 
-```console
+```bash
 $ ssh-agent /bin/bash
 ```
 
 * Load your new identity into the ssh-agent management program using the ssh-add command.
 
-```console
+```bash
 $ ssh-add ~/.ssh/id_rsa
 Enter passphrase for /Users/manthony/.ssh/id_rsa: 
 Identity added: /Users/manthony/.ssh/id_rsa (/Users/manthony/.ssh/id_rsa)
@@ -93,7 +93,7 @@ Identity added: /Users/manthony/.ssh/id_rsa (/Users/manthony/.ssh/id_rsa)
 
 * Use the ssh-add command to list the keys that the agent is managing.
 
-```console
+```bash
 $ ssh-add -l
 2048 7a:9c:b2:9c:8e:4e:f4:af:de:70:77:b9:52:fd:44:97 /Users/manthony/.ssh/id_rsa (RSA)
 ```
@@ -108,7 +108,7 @@ $ ssh-add -l
 * Back in your terminal window, copy the contents of your public key file.
 * For example, in Linux you can cat the contents.
 
-```console
+```bash
 $ cat ~/.ssh/id_rsa.pub
 ```
 * Back in your browser, enter a Label for your new key, for example, Default public key.
