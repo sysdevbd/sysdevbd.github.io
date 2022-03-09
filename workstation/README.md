@@ -205,3 +205,14 @@ to your PATH from your bashrc like:
 https://stackoverflow.com/questions/3855127/find-and-kill-process-locking-port-3000-on-mac
 
 `lsof -ti:port1,port2`
+
+**Hugo M1 pipe failed**
+
+https://github.com/google/docsy-example/issues/89
+
+```
+sudo launchctl limit maxfiles 65535 200000
+ulimit -n 65535
+sudo sysctl -w kern.maxfiles=100000
+sudo sysctl -w kern.maxfilesperproc=65535
+```
