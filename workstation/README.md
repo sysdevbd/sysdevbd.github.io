@@ -208,7 +208,8 @@ https://stackoverflow.com/questions/3855127/find-and-kill-process-locking-port-3
 
 **Hugo M1 pipe failed**
 
-https://github.com/google/docsy-example/issues/89
+- https://github.com/google/docsy-example/issues/89
+- https://apple.stackexchange.com/a/73688/193654
 
 ```
 sudo launchctl limit maxfiles 65535 200000
