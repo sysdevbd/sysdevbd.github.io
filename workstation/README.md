@@ -218,3 +218,9 @@ ulimit -n 65535
 sudo sysctl -w kern.maxfiles=100000
 sudo sysctl -w kern.maxfilesperproc=65535
 ```
+
+**Dell**
+- https://www.xda-developers.com/dual-boot-windows-11-linux/
+- https://www.dell.com/support/kbdoc/en-in/000131655/how-to-install-ubuntu-linux-on-your-dell-pc
+- https://www.dell.com/support/kbdoc/en-in/000141125/xps-13-9343-how-to-install-ubuntu-developer-edition-14-04-on-a-dell-pc-configured-for-the-unified-extensible-firmware-interface-uefi-bios
+- https://www.dell.com/support/kbdoc/en-in/000131486/update-the-dell-bios-in-a-linux-or-ubuntu-environment
