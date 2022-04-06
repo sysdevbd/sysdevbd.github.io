@@ -224,3 +224,4 @@ sudo sysctl -w kern.maxfilesperproc=65535
 - https://www.dell.com/support/kbdoc/en-in/000131655/how-to-install-ubuntu-linux-on-your-dell-pc
 - https://www.dell.com/support/kbdoc/en-in/000141125/xps-13-9343-how-to-install-ubuntu-developer-edition-14-04-on-a-dell-pc-configured-for-the-unified-extensible-firmware-interface-uefi-bios
 - https://www.dell.com/support/kbdoc/en-in/000131486/update-the-dell-bios-in-a-linux-or-ubuntu-environment
+- https://linuxconfig.org/amd-radeon-ubuntu-20-04-driver-installation
