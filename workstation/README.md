@@ -200,6 +200,10 @@ to your PATH from your bashrc like:
     PATH="/opt/homebrew/opt/gnu-sed/libexec/gnubin:$PATH"
 ```
 
+**Format Bootable USB disk**
+
+https://phoenixnap.com/kb/linux-format-usb
+
 **Detect bind port already in use**
 
 https://stackoverflow.com/questions/3855127/find-and-kill-process-locking-port-3000-on-mac
