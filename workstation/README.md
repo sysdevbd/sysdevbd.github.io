@@ -53,8 +53,7 @@ $ sudo apt-get update
 $ sudo apt-get install -y software-properties-common apt-transport-https \
   linux-tools-common linux-tools-generic linux-tools-$(uname -r) \
   build-essential automake \
-  terminator fish curl tree rlwrap gnome-tweak-tool httpie \
-  graphviz libappindicator1 subversion mercurial \
+  terminator fish curl tree rlwrap httpie graphviz \
   python-dev python-setuptools python-pip
 ```
 
