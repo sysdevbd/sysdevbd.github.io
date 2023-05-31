@@ -58,5 +58,4 @@
 
 ## Envoy
 
-- https://github.com/tamalsaha/learn-envoy/tree/master/envoy
-
+- https://github.com/voyagermesh/learn-envoy
