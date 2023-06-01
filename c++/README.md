@@ -41,7 +41,7 @@
 
 - https://protobuf.dev/
 
-## GRPC 1-2 day + 1- days project
+## GRPC 1-2 day + 1-2 days project
 
 - https://grpc.io/docs/languages/cpp/quickstart/
 - https://github.com/fullstorydev/grpcurl
