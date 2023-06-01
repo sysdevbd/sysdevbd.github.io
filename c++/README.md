@@ -3,8 +3,8 @@
 ## Prerequisites
 
 - [Prepare your workstation](/workstation/)
-- [Intro to Linux](https://www.youtube.com/watch?v=sWbUDq4S6Y8)
-- [Learn Git](/git/)
+- [Intro to Linux](https://www.youtube.com/watch?v=sWbUDq4S6Y8) 1 day
+- [Learn Git](/git/) 1-2 days
 
 ## IDE
 
