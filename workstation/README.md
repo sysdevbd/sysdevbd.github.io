@@ -2,7 +2,7 @@
 
 ## Install Ubuntu
 
-*  Download **_64-bit Ubuntu 18.04_** to create a bootable disk from a USB stick.
+*  Download **_64-bit Ubuntu 22.04_** to create a bootable disk from a USB stick.
 *  Install Ubuntu from the bootable USB.
 *  If you are dual booting, give the Windows partition at most _100 GB_ disk space and give the rest to Ubuntu.
 *  Create the default Ubuntu user 
