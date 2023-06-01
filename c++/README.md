@@ -3,6 +3,7 @@
 ## Prerequisites
 
 - [Prepare your workstation](/workstation/)
+- [Intro to Linux](https://www.youtube.com/watch?v=sWbUDq4S6Y8)
 - [Learn Git](/git/)
 
 ## IDE
