@@ -124,6 +124,8 @@ alias gmv 'go mod tidy; go mod vendor'
 alias ga 'git add .;git commit --amend --no-edit -a -s'
 ```
 
+- https://github.com/aluxian/fish-kube-prompt
+
 ## Troubleshooting
 
 ### Pulse Audio Profile
