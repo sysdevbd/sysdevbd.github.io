@@ -108,6 +108,8 @@ alias g2h="git push origin HEAD"
 alias gr="git reset --hard HEAD"
 alias gmv="go mod tidy; go mod vendor"
 alias ga="git add .;git commit --amend --no-edit -a -s"
+alias gcp="git cherry-pick"
+alias gch="git checkout"
 ```
 
 ### Fish
@@ -124,6 +126,8 @@ alias g2h 'git push origin HEAD'
 alias gr 'git reset --hard HEAD'
 alias gmv 'go mod tidy; go mod vendor'
 alias ga 'git add .;git commit --amend --no-edit -a -s'
+alias gcp 'git cherry-pick'
+alias gch 'git checkout'
 ```
 
 - https://github.com/aluxian/fish-kube-prompt
