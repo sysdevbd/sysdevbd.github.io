@@ -110,6 +110,7 @@ alias gmv="go mod tidy; go mod vendor"
 alias ga="git add .;git commit --amend --no-edit -a -s"
 alias gcp="git cherry-pick"
 alias gch="git checkout"
+alias gl="git log --oneline -5"
 ```
 
 ### Fish
@@ -128,6 +129,7 @@ alias gmv 'go mod tidy; go mod vendor'
 alias ga 'git add .;git commit --amend --no-edit -a -s'
 alias gcp 'git cherry-pick'
 alias gch 'git checkout'
+alias gl 'git log --oneline -5'
 ```
 
 - https://github.com/aluxian/fish-kube-prompt
