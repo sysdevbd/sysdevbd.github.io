@@ -63,18 +63,3 @@
 
 Book:
 https://www.gnu.org/software/make/manual/html_node/index.html 
-
-## Bazel 2 days
-
-- https://bazel.build/start/cpp
-- [Bazel Tutorial - Ultimate Beginner Guide](https://www.youtube.com/watch?v=toPWLiUq5Ps)
-- Bazel files are written in Python. So, knowing Python will help.
-
-- `brew install bazelisk`
-
-- Install VS Code plugin: bazel
-- `brew install buildifier`
-
-## Envoy
-
-- https://github.com/voyagermesh/learn-envoy
