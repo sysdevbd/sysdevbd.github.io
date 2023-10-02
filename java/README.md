@@ -1,16 +1,15 @@
 # Java
 
 ## Prerequisites
-
 - [Prepare your workstation](/workstation/)
 - [Intro to Linux](https://www.youtube.com/watch?v=sWbUDq4S6Y8) 1 day
 - [Learn Git](/git/) 1-2 days
 
 ## IDE
-
 - Install [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 ## Java
+- [Complete Reference](https://drive.google.com/file/d/1zlHFCTLTfStoM1NEKqDliDQQGpmUu9rc/view?usp=drive_link)
 - [Effective Java](https://github.com/appscode/books/tree/master/java)
 
 ## Maven
@@ -35,6 +34,8 @@
 - Learn curl + Postman and test your server
 
 ### JSON
+
+- https://github.com/FasterXML/jackson
 
 - [http://json.org/](http://json.org/)
 - http://blog.golang.org/json-and-go
