@@ -53,7 +53,6 @@
 ## Docker 3 days
 
 - Learn Containers
-   - [Linux Namespaces](/containers/namespace/)
    - [Docker](/containers/docker/)
 
 ## Make 2 days
