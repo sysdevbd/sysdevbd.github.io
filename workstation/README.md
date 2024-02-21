@@ -103,7 +103,7 @@ alias gg="git gui"
 alias gs="git status"
 alias gm="git fetch origin --prune --tags -f;git checkout master;git pull origin master"
 alias gmn="git fetch origin --prune --tags -f;git checkout main;git pull origin main"
-alias gp="git add .;git commit -a -s -m added-all;git push origin HEAD"
+alias gp="git add .;git commit -a -s -m wip;git push origin HEAD"
 alias g2h="git push origin HEAD"
 alias gr="git reset --hard HEAD"
 alias gmv="go mod tidy; go mod vendor"
@@ -122,7 +122,7 @@ alias gg 'git gui'
 alias gs 'git status'
 alias gm 'git fetch origin --prune --tags -f;git checkout master;git pull origin master'
 alias gmn 'git fetch origin --prune --tags -f;git checkout main;git pull origin main'
-alias gp 'git add .;git commit -a -s -m added-all;git push origin HEAD'
+alias gp 'git add .;git commit -a -s -m wip;git push origin HEAD'
 alias g2h 'git push origin HEAD'
 alias gr 'git reset --hard HEAD'
 alias gmv 'go mod tidy; go mod vendor'
