@@ -20,4 +20,4 @@
 Nothing needs to be done by default. Just confirm the virtual disk size is large enough (at least 250GB).
 
 - `wsl --system -d Ubuntu-24.04 df -h /mnt/wslg/distro`
-`(Get-ChildItem -Path HKCU:\Software\Microsoft\Windows\CurrentVersion\Lxss | Where-Object { $_.GetValue("DistributionName") -eq 'Ubuntu-24.04' }).GetValue("BasePath") + "\ext4.vhdx"`
+- `(Get-ChildItem -Path HKCU:\Software\Microsoft\Windows\CurrentVersion\Lxss | Where-Object { $_.GetValue("DistributionName") -eq 'Ubuntu-24.04' }).GetValue("BasePath") + "\ext4.vhdx"`
