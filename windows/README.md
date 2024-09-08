@@ -3,6 +3,7 @@
 ## Links
 - https://learn.microsoft.com/en-us/windows/wsl/install
 - https://learn.microsoft.com/en-us/windows/wsl/disk-space
+- https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps
 
 ## Install Ubuntu 24.04
 - Open Windows Terminal app in Administrator mode
@@ -10,6 +11,7 @@
 - `wsl --install -d Ubuntu-24.04`
 - Exit and open Terminal app in regular mode
 - `wsl -d Ubuntu-24.04`
+- Once inside the Ubuntu prompt, make sudo password less `echo "$USER ALL=(ALL) NOPASSWD: ALL" >> /etc/sudoers`
 
 ## List installed distros
 
