@@ -47,14 +47,15 @@
 - https://github.com/fullstorydev/grpcurl
 - https://github.com/fullstorydev/grpcui
 - We don't need buf.build
-
-- BookServer using GRPC
+- BookServer using gRPC
+- Test grpc servers with `grpcurl`: https://appscode.com/blog/post/grpcurl/
 
 ## Docker 3 days
 
 - Learn Containers
    - [Linux Namespaces](/containers/namespace/)
    - [Docker](/containers/docker/)
+- Dockerize your **BookServer**
 
 ## Make 2 days
 
@@ -65,7 +66,8 @@ Book:
 https://www.gnu.org/software/make/manual/html_node/index.html 
 
 ## Bazel 2 days
-
+- Installation: https://gist.github.com/shiponcs/e3bd91380157a15361dc3bd6cbd5e1af#file-bazel_installations-md
+- https://bazel.build/docs/bazel-and-cpp
 - https://bazel.build/start/cpp
 - [Bazel Tutorial - Ultimate Beginner Guide](https://www.youtube.com/watch?v=toPWLiUq5Ps)
 - Bazel files are written in Python. So, knowing Python will help.
