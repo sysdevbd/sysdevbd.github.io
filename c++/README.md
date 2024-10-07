@@ -11,7 +11,7 @@
 - Install [CLion](https://www.jetbrains.com/clion/)
 
 ## C++
-- If you are not much confortable about doing C++ projects, here is an example of minimalistic project in C++ with details description about how it can be built with and without any build tool: https://github.com/shiponcs/buffoon
+- If you are not much confortable about doing C++ projects, here is an example of minimalistic project in C++ with details description about how it can be built with and without any build tool: https://github.com/sysdevbd/buffoon
 ### HTTP Basic 3 days
 - [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 - [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
@@ -71,7 +71,7 @@ https://www.gnu.org/software/make/manual/html_node/index.html
 - Installation: https://gist.github.com/shiponcs/e3bd91380157a15361dc3bd6cbd5e1af#file-bazel_installations-md
 - https://bazel.build/docs/bazel-and-cpp
 - https://bazel.build/start/cpp
-- How a remote bazel project can imported and used: https://github.com/shiponcs/buffoon#b-using-with-bazel
+- How a remote bazel project can imported and used: https://github.com/sysdevbd/buffoon#b-using-with-bazel
 - [Bazel Tutorial - Ultimate Beginner Guide](https://www.youtube.com/watch?v=toPWLiUq5Ps)
 - Bazel files are written in Python. So, knowing Python will help.
 - `brew install bazelisk`
