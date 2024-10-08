@@ -42,6 +42,8 @@
 ## Protocol Buffer 1-2 days
 
 - https://protobuf.dev/
+- C++ Tutorial: https://protobuf.dev/getting-started/cpptutorial/ (styding this alone is enough to get started working)
+- C++ Reference: https://protobuf.dev/reference/cpp/
 
 ## GRPC 1-2 day + 1-2 days project
 
